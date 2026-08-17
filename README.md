@@ -95,10 +95,16 @@ Fort d'une expérience au sein d'équipementiers automobiles majeurs (**Hutchins
 
 * 📍 **Zone de mobilité :** Loiret et alentours
 * 🚗 **Permis B :** Véhiculé
-* 📞 **Téléphone :** [06 89 84 46 50](tel:+33689844650)
+* 🐙 **GitHub :** [github.com/mbelaifa](https://github.com/mbelaifa)
+* 🌐 **Portfolio :** [mbelaifa.github.io](https://mbelaifa.github.io)
+* 📞 **Téléphone :** `+33 6 89 84 46 50` *(ou via [WhatsApp](https://wa.me/33689844650))*
 * ✉️ **Email :** [Me contacter par email](mailto:mbelaifa@gmail.com)
 
 ---
 
 > **Merci pour votre visite !**  
 > Toujours à l'écoute de nouveaux défis industriels dans le Loiret. Un projet ou une opportunité ?
+
+---
+
+*Dernière mise à jour : Août 2026*
